@@ -23,6 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psiconaut4&layout=compact&theme=radical" height="150"/>
 </p>
 
+![snake gif](https://github.com/seu-usuario/Psiconaut4/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ## 🌐 Conecte-se comigo
