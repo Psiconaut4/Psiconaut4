@@ -1,5 +1,7 @@
+<div align="center">
 
-## 🛠️ Tecnologias e Ferramentas
+ ## 🛠️ Tecnologias e Ferramentas
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -12,7 +14,10 @@
 
 ---
 
+<div align="center">
+
 ## 📈 Estatísticas do GitHub
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Psiconaut4&show_icons=true&theme=radical" height="150"/>
