@@ -28,8 +28,10 @@
 
 
 ---
+<div align="center">
 
 ## 🌐 Conecte-se comigo
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-g-farias/" target="_blank">
