@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=WDXL+Lubrifont+TC&pause=1000&color=228A07&background=000000&width=435&lines=Seja+bem+vindo+ao+meu+perfil+Github!;Meu+nome+%C3%A9+Nathan;Apaixonado+por+tecnologia;Amante+de+caf%C3%A9;%3A)" />
-</p>
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -37,7 +33,7 @@
   <a href="mailto:psiconaut4tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio.psiconaut4.com.br" target="_blank">
+  <a href="https://psiconaut4.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white"/>
   </a>
 </p>
